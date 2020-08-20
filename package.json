@@ -1,5 +1,5 @@
 {
-  "name": "full_stack_practice",
+  "name": "library",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -11,16 +11,17 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start":"node app.js"
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Fisheep1207/Full_stack_practice.git"
+    "url": "git+https://github.com/daniel19990511/library.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Fisheep1207/Full_stack_practice/issues"
+    "url": "https://github.com/daniel19990511/library/issues"
   },
-  "homepage": "https://github.com/Fisheep1207/Full_stack_practice#readme"
+  "homepage": "https://github.com/daniel19990511/library#readme",
+  "keywords": []
 }
